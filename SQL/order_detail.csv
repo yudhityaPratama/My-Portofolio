@@ -1,0 +1,18 @@
+Id,order_id,product_name,quantity,price
+1,1,Coca Cola,100,6000
+2,1,Sprite,80,5500
+3,2,Coca Cola,70,6000
+4,2,Sprite,41,5500
+5,2,Fanta Grape,12,3000
+6,2,Fanta Strawberry,20,3100
+7,3,Fanta Strawberry,30,3200
+8,3,Fanta Grape,90,3300
+9,3,Sprite,100,5500
+10,4,Coca Cola,40,6000
+11,5,Green Tea,50,8000
+12,6,Fanta Grape,10,3000
+13,6,Fanta Strawberry,8,3100
+14,6,Green Tea,80,8000
+15,6,Soya Milk,15,9500
+16,7,Root Beer,70,1000
+17,8,Milk,1500,13000

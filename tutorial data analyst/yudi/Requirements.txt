@@ -1,8 +1,0 @@
-shiny
-matplotlib
-cufflinks
-faicons
-pandas
-plotly
-shinywidgets
-yfinance
